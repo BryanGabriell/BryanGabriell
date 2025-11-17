@@ -34,10 +34,10 @@ Atualmente, trabalho com **Java, Spring Boot, PostgreSQL, MongoDB**, além de ut
 
 ![BryanGabriell GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanGabriell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
 ![BryanGabriell Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGabriell&theme=tokyonight&layout=compact&langs_count=6)
-
 ---
 
 ### 💡 Objetivo Profissional
 
 Meu objetivo é crescer como **Backend Developer** / entregando **APIs escaláveis, sistemas de alto desempenho e soluções robustas**.  
 Busco oportunidades em empresas que valorizem **inovação, aprendizado contínuo e desenvolvimento de software de qualidade**.
+
