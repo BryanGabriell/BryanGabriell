@@ -40,5 +40,3 @@ Atualmente, trabalho com **Java, Spring Boot, PostgreSQL, MongoDB**, além de ut
 
 Meu objetivo é crescer como **Backend Developer** / entregando **APIs escaláveis, sistemas de alto desempenho e soluções robustas**.  
 Busco oportunidades em empresas que valorizem **inovação, aprendizado contínuo e desenvolvimento de software de qualidade**.
-
-![snake gif](https://github.com/BryanGabriell/BryanGabriell/blob/output/github-contribution-grid-snake.svg)
