@@ -12,7 +12,7 @@ Atualmente, trabalho com **Java, Spring Boot, PostgreSQL, MongoDB**, além de ut
 ### 📌 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Gabriel-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-gabriel-60b6223a8?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-    [!Instagram](https://img.shields.io/badge/Instagram-@bryanfinanci-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryanfinanci/)
+    [![Instagram](https://img.shields.io/badge/Instagram-@bryanfinanci-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryanfinanci/)
 
 ---
 
