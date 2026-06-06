@@ -71,15 +71,6 @@ Sistema de pedidos e checkout com Java e PostgreSQL.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BryanGabriell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGabriell&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-gabriel-60b6223a8)
